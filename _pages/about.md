@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Rutgers</a>. NJ. Stay hungry, stay foolish.
+subtitle: <a href='#'>Rutgers University</a>. NJ. School of Engineering Honors Academy
 
 profile:
   align: right
