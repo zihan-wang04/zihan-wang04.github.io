@@ -2,6 +2,79 @@
   type: map
   contents:
     - name: Full Name
+      value: Zihan Wang
+    - name: Date of Birth
+      value: [Your Date of Birth]  # Add your actual date of birth
+    - name: Languages
+      value: English, Mandarin
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Material Science and Engineering Major Intended
+      institution: Rutgers University Engineering Honors Academy
+      year: Aug 2023 – Present
+      description:
+        - Skills: Java, C & C++
+        - Relevant Courses: Programming Methodology I, Intro to Computer (Java)
+        - GPA: 3.92/4.00, Dean’s List
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Software Engineering Intern, Team Leader
+      institution: GPA Global, Shenzhen, China
+      year: June 2023 – Aug 2023
+      description:
+        - Led a three-member team to develop a deep-learning based business quotation model.
+        - Managed project resources and delivered progress updates to IT manager.
+        - Influenced company's decision on further development with successful R&D presentation.
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Undergraduate Research Assistant
+      institution: Professor Aaron Mazzeo's Lab, Rutgers University
+      year: [Start Year] – Present  # Update with the actual start year
+      description:
+        - Focusing on the fabrication of paper-based biosensors.
+        - Part of a team developing accessible diagnostic tools.
+
+- title: Engineering Service & Experience
+  type: time_table
+  contents:
+    - title: Member
+      institution: IEEE, Rutgers Formula Racing, Rocket Propulsion Lab
+      year: Nov 2023 – Present
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - Dean’s List at Rutgers School of Engineering
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Material Science
+      items:
+        - Exploration of innovative materials and applications.
+        - Advanced manufacturing processes.
+
+    - title: Professional Physics
+      items:
+        - Quantum mechanics and its technological applications.
+        - Computational physics modeling.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Volunteering, Team sports, Coding challenges
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
       value: Albert Einstein
     - name: Date of Birth
       value: 14th March 1879
