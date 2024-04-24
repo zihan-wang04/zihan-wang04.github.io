@@ -4,4 +4,4 @@ Beyond my academic and research endeavors, I am passionate about photography. I 
 
 I am also active on: 
 [Linkedin](https://www.linkedin.com/in/zihanwang-james)
-[Instagram](https://www.instagram.com/zihanw233/)
+[Instagram](https://www.instagram.com/zihanw233)
