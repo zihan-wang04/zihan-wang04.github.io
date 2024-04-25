@@ -1,17 +1,23 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Dummy Robotics
+description: A high accuracy robotic arm solution. @zhihui-peng
+img: assets/img/p5a.jpg
 importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The Dummy-Robot project on GitHub by peng-zhihui is an innovative mini robotic arm designed for tech enthusiasts and developers interested in robotics and automation. The project features a super compact smart robotic arm that integrates advanced features such as C++11 for core programming enhancements, a fully decoupled hardware dependency allowing future MCU platform adaptability, and use of both CAN and UART protocols for versatile communications. The design emphasizes ease of customization and scalability, facilitating learning and adaptation for personal or educational robotics projects.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The technical focus of the Dummy-Robot includes:
+
+Programming: Utilizes C++ with some parts in C for performance efficiency.
+Hardware Compatibility: Designed to be hardware-agnostic which simplifies porting to other MCU platforms.
+Storage: Implements simulated EEPROM for data storage that persists through power cycles.
+Control Protocols: Includes templates for CAN and UART protocols, allowing for extensive control options.
+Positioning: Features innovative zero-positioning capabilities within a half-turn for enhanced precision.
+
+More details at: [Github](https://github.com/peng-zhihui/Dummy-Robot)
 
     ---
     layout: page
