@@ -2,7 +2,7 @@
 layout: page
 title: Photography
 description: Collection of works
-img:
+img: /assets/img/p4a.jpg
 importance: 3
 category: fun
 ---
